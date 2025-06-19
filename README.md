@@ -19,7 +19,7 @@ A classic **Snake Game** built in Python using the **Turtle Graphics** library.
 
 ```bash
 # Clone the repo
-git clone https://github.com/Shootingstar-99/SnakeGame.git
+git clone https://github.com/Shootingstar-99/Snake_Game_Python.git
 cd SnakeGame
 
 # Run the main file
