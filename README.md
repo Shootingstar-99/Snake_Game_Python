@@ -20,13 +20,13 @@ A classic **Snake Game** built in Python using the **Turtle Graphics** library.
 ```bash
 # Clone the repo
 git clone https://github.com/Shootingstar-99/Snake_Game_Python.git
-cd SnakeGame
+cd Snake_Game_Python
 
 # Run the main file
 python main.py
 ```
 ## 📄 License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 ## 💡 Author
 - Snehit Raj: @Shootingstar-99
